@@ -1,7 +1,5 @@
 # Modern Expense Tracker Web App
 
-![Expense Tracker Screenshot](screenshot.png)
-
 The Modern Expense Tracker Web App is a user-friendly web application that allows you to manage your expenses effortlessly. Built with HTML, Bootstrap, and JavaScript, this app provides a modern and responsive interface to track your spending and stay on top of your finances.
 
 ## Features
