@@ -8,6 +8,7 @@ The Modern Expense Tracker Web App is a user-friendly web application that allow
 - Edit existing expense entries.
 - Delete expenses when they're no longer relevant.
 - Clean and intuitive user interface.
+- Caching feature to store your expense data locally.
 - Responsive design for seamless use on various devices.
 
 ## How to Use
